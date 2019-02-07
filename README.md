@@ -2,12 +2,11 @@
 
 1. Created a test class named test_consec
     - declared 3 arraylists 
-         - expectedstring and actualString.  
-inputWords consists of 3 input words which are passed to ConsecutiveLetters class.
-expectedstring stores the expected result.
-actualWords stores the result returned by ConsecutiveLetters class.
-created three methods: testLowerLetters, testCapitalLetters, testMixedLetters corresponding to 3 test cases in description.
-Created a class named Consecutive Letters.
-
-created a method getWords which recieves an argument of type ArrayList from TestConsecutiveLetters class.
-getWords returntype is ArrayList.
+         - expectedstring and actualString.   
+    actualString consists of 3 input words which are passed to Consec class.  
+    expectedstring stores the expected result.   
+    actualWords stores the result returned by Consec class.   
+ 
+     2. Created a class named Consecutive Letters.  
+    created a method getWords which recieves an argument of type ArrayList from TestConsec class.
+        result returntype is ArrayList.
