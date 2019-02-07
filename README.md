@@ -6,6 +6,6 @@
         - expectedstring stores the expected result.   
         -  actualConsecutiveLetterResult stores the result returned by Consec class.   
  
-    2. Created a class named Consec.  
-         - created a method findConsecString which recieves an argument of type ArrayList from TestConsec class and return type is ArrayList.
-                 - The method iterates through the arraylist and find out elements which have consecutive duplicate letters.
+ 2. Created a class named Consec.  
+    - created a method findConsecString which recieves an argument of type ArrayList from TestConsec class and return type is ArrayList.     
+         - The method iterates through the arraylist and find out elements which have consecutive duplicate letters.
